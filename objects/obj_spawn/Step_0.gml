@@ -1,0 +1,1 @@
+visible = global.is_editing

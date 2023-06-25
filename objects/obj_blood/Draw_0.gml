@@ -1,0 +1,1 @@
+draw_circle_color(x,y,b_rad,make_color_rgb(199,0,0),make_color_rgb(199,0,0),false)
