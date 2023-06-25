@@ -3,6 +3,7 @@ watch_dir = point_direction(x,y,mouse_x,mouse_y)
 
 switch(mode) {
 	case 0:
+		Hello i am a change!
 		if keyboard_check(ord("A")) {
 			if hspeed > -walk_speed {
 				hspeed -= walk_gain
