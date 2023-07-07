@@ -1,0 +1,8 @@
+// BUGS //
+- wall collisions
+
+// ADDITIONS/UPGRADES //
+- Level Editor UI
+- Score Logic
+- GameOver Logic
+- More Entities type logics
